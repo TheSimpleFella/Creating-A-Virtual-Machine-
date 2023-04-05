@@ -18,7 +18,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 
 - Windows 10</b> (21H2)
 
-<h2>Below are a list of steps and screenshots that demonstrate how to easily create a nd access a virtual machine in Microsoft Azure.</h2>
+<h2>Below are a list of steps and screenshots that demonstrate how to easily created and accessed a virtual machine in Microsoft Azure.</h2>
 
 1. Created a Resource Group. Selected the "Resource Group" tab.  
 
