@@ -29,7 +29,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-2. Selected the "Create" button.
+2. Selected the "Create Resource Group" button.
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230172291-afc330fd-4900-436a-b98a-88fb08750f24.png" height="80%" width="80%" alt="Step 1"/>
