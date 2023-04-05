@@ -2,7 +2,7 @@
 Creating a virtual machine in Azure.
 
 
-8 Simple steps to reset a users password in osTicket successfully.
+These were the very simple steps I used to create a virtual machine in Azure successfully.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/126700220/230170879-997eed84-f188-4799-9b24-baad5d748e47.png" alt="osTicket logo"/>
 </p>
