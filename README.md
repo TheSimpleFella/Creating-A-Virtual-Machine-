@@ -74,7 +74,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-6. Selected the create a virtual machine option.
+6. Selected the Azure virtual machine option.
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230173788-d93edb5f-685c-429b-b357-54419ca69a2e.png" height="80%" width="80%" alt="Step 1"/>
@@ -92,7 +92,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-7.1. Created a password for the VM. Then selected the create button. 
+7.1. Created a password for the VM. Selected the create button. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230174470-e5027654-686b-4983-8ad5-15c1fd270a77.png" height="80%" width="80%" alt="Step 1"/>
@@ -119,7 +119,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-8.1. The virtal machine is created. 
+8.1. The virtual machine was created. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230175310-85a5bdba-3732-4c97-a5ae-06be61fcfe84.png" height="80%" width="80%" alt="Step 1"/>
@@ -137,7 +137,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-10. Made sure I copies the correct IP address to remote into the VM. 
+10. Made sure I copied the correct IP address to remote into the VM. 
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230175612-bc73f62d-7adc-4a17-aea3-5a5dfb4610f0.png" height="80%" width="80%" alt="Step 1"/>
