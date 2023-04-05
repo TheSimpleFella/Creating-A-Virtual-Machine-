@@ -83,7 +83,7 @@ These were the very simple steps I used to create a virtual machine in Azure suc
 </p>
 <br />
 
-7. Entered necessary details in the optins boxes.
+7. Entered necessary details in the options boxes.
 
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/230174027-aaa26227-9ee0-428a-a050-09efde40243a.png" height="80%" width="80%" alt="Step 1"/>
